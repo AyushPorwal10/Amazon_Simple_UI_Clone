@@ -25,7 +25,7 @@
 .logo{
     height: 100px;
     width:200px;
-    background-image: url(lo.png);
+    background-image: url(Images/lo.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -190,7 +190,7 @@
 {
     height:350px;
     width: 1350px;
-    background-image: url(main.png);
+    background-image: url(Images/main.png);
     background-size:cover;
     display: flex;
     align-items: flex-end;
@@ -238,7 +238,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Toys.png);
+    background-image: url(Images/Toys.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -254,7 +254,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Deals.png);
+    background-image: url(Images/Deals.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -270,7 +270,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Small.png);
+    background-image: url(Images/Small.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -286,7 +286,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Home.png);
+    background-image: url(Images/Home.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -311,7 +311,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Beauty.png);
+    background-image: url(Images/Beauty.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -328,7 +328,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(ShopHoliday.png);
+    background-image: url(Images/ShopHoliday.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -344,7 +344,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Laptop.png);
+    background-image: url(Images/Laptop.png);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
@@ -360,7 +360,7 @@
  {
     height: 300px;
     width: 270px;
-    background-image: url(Books.jpg);
+    background-image: url(Images/Books.jpg);
    background-size: contain;
    background-repeat: no-repeat;
     margin-top: 50px;    
